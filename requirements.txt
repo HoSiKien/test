@@ -5,9 +5,9 @@ beautifulsoup4
 jinja2
 python-dateutil
 python-multipart
-faiss-cpu
+
 numpy
 python-docx
 PyPDF2
-nltk
+
 itsdangerous
