@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+jinja2
+python-dateutil
+python-multipart
+faiss-cpu
+sentence-transformers
+numpy
+python-docx
+PyPDF2
+nltk
+itsdangerous
